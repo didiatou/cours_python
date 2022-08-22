@@ -1,0 +1,10 @@
+{
+    "name": "Jonh",
+    "age": 30,
+    "city": "New York",
+    "haschildren": false,
+    "titles": [
+        "engineer",
+        "programmer"
+    ]
+}
